@@ -1,0 +1,24 @@
+{
+    "angles": {
+        "elbowAngles": {
+            "title": "Elbow Flexion/Extension Angles",
+            "calculation": "The elbow angle is calculated by finding the angle between the shoulder, elbow, and wrist keypoints. This is done using the dot product of the vectors formed by these points.",
+            "importance": "The elbow angle can indicate the level of bend in the arm, which can be useful in analyzing movements such as reaching for holds or maintaining balance."
+        },
+        "armpitAngles": {
+            "title": "Armpit Angles",
+            "calculation": "The angle between the armpits is calculated by finding the angle between the left shoulder, center of mass, and right shoulder keypoints. This is done using the dot product of the vectors formed by these points.",
+            "importance": "The angle between the armpits can indicate the positioning of the upper body, which can be useful in analyzing movements such as reaching for holds or maintaining balance."
+        },
+        "legSeparationAngle": {
+            "title": "Leg Separation Angle",
+            "calculation": "The angle is calculated by finding the angle between the left ankle, centre of mass, and right ankle keypoints. This is done using the dot product of the vectors formed by these points.",
+            "importance": "This angle can indicate the level of balance maintained by the individual, which can be useful in analyzing movements such as stepping or maintaining balance."
+        },
+        "kneeAngles": {
+            "title": "Knee Angles",
+            "calculation": "The knee angle is calculated by finding the angle between the hip, knee, and ankle keypoints. This is done using the dot product of the vectors formed by these points.",
+            "importance": "The knee angle can indicate the level of bend in the knee, which can be useful in analyzing movements such as stepping on footholds or maintaining balance."
+        }
+    }
+}

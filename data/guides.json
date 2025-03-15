@@ -1,0 +1,15 @@
+{
+    "userGuides": {
+        "how-to-record-and-analyse-a-climbing-video": {
+            "title": "How to record and analyse a climbing video",
+            "instructions": [
+                "1) Navigate to the Recorder, choose your desired setting (e.g. front or back camera) then press Start Recording.",
+                "2) Once you've recorded a video, navigate to Analyse and add the video you'd like to analyse.",
+                "3) Once you've added the video/s, press Detect and submit once you fill out the form with following details: the video and the timestamp in seconds (e.g. 00:00:05 = 5) of the video frame you'd like to analyse.",
+                "4) Wait a few seconds and the analysed frame should appear below the videos.",
+                "5) Rinse and repeat for one or more videos."
+            ]
+        }
+    },
+    "climbingGuides": {}
+}

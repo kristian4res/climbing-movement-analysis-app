@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PulsingCircle component matches the snapshot 1`] = `
+<View
+  animatedStyle={
+    {
+      "value": {
+        "transform": [
+          {
+            "scale": 1,
+          },
+        ],
+      },
+    }
+  }
+  collapsable={false}
+  style={
+    {
+      "backgroundColor": "red",
+      "borderRadius": 10,
+      "height": 20,
+      "position": "absolute",
+      "top": 20,
+      "transform": [
+        {
+          "scale": 1,
+        },
+      ],
+      "width": 20,
+      "zIndex": 11,
+    }
+  }
+  testID="pulsing-circle"
+/>
+`;
